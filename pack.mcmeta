@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "pack_format": 46,
+    "description": [
+      [
+        {
+          "text": "\u865a\u7a7a\u98de\u884c\u8d5b\n",
+          "color": "#c0c0c0",
+          "bold": true
+        },
+        {
+          "text": "Void Air Race\n",
+          "color": "#c0c0c0",
+          "bold": true
+        }
+      ],
+      "\n",
+      "Author: qR\nVersion: 0.1.0"
+    ]
+  }
+}

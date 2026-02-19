@@ -1,0 +1,6 @@
+{
+    "model": {
+        "type": "model",
+        "model": "var:green_led_strip_corner"
+    }
+}
